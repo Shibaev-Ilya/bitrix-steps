@@ -1,0 +1,17 @@
+/bitrix/
+/upload/
+.ssh
+history
+
+/.htsecure
+/.htaccess
+/.htpasswd
+.idea
+.DS_Store
+Thumbs.db
+*.log
+*.tar
+*.gz
+*.tgz
+*.tar.gz
+*.zip
